@@ -1,5 +1,5 @@
-name: 'GSA/[PROJECT]'
-description: '[PROJECT DESCRIPTION]'
+name: 'GSA/grace-doc-gen'
+description: 'Simple go program to generate markdown tables for inputs and outputs from the `variables.tf` and `outputs.tf` file'
 license: cc0-1.0
 openSourceProject: 1
 governmentWideReuseProject: 1

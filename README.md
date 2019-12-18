@@ -1,6 +1,7 @@
-# Project
+# GSA/grace-doc-gen
 
-## Repository contents
+Simple go program to generate markdown tables for inputs and outputs from the `variables.tf` and `outputs.tf` file.
+Temporary workaround until [terraform-docs](segmentio/terraform-docs) [adds support for Terraform 0.12](https://github.com/segmentio/terraform-docs/issues/62).
 
 ## Public domain
 
